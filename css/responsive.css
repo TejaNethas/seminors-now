@@ -1,0 +1,59 @@
+@media only screen and (max-width: 600px){
+	footer .footer-sub-div {
+    padding: 1em 0;
+}
+section .section-title {
+    text-align: center;
+    margin: 0;
+    padding: 0.5em;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+#tabs .nav-pills .nav-link {
+    font-size: 11px;
+        padding: .5rem 0.5rem;
+}
+#tabs .events-tab-content .tab-pane p{
+	text-align: justify;
+    font-size: 12px;
+}
+.footer-sub-div ul.footer-fallow-ul{
+	margin: 0;
+}
+#tabs {
+    padding: 1em 0;
+}
+#about-us p{
+    font-size: 12px;
+}
+.section-pd {
+    padding: 1em 0em;
+}
+.profile-card-5 {
+    margin: 1em 0;
+}
+#post-your-event-tabs .nav-pills .nav-link {
+    font-size: 12px;
+}
+#post-your-event-tabs .seminor-login-form {
+    padding: 1em 0 0;
+}
+.container-checkbox{
+      font-size: 10px;
+}
+#post-your-event-tabs .form-control{
+    font-size: 14px;
+}
+#post-your-event-tabs .btn-check-login{
+    width: 100%;
+}
+.post-final-submit li p{
+    font-size: 12px;
+}
+#post-your-event-tabs {
+    padding: 1em 0;
+}
+.seminor-login-form .btn-check-login{
+    width: 100%;
+}
+}
